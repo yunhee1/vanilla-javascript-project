@@ -183,7 +183,7 @@ Modal
 */
 .hero {
   min-height: 100vh;
-  background: url("./background.png") center/cover no-repeat;
+  background: url("https://img.freepik.com/premium-vector/cute-background-girly-wallpaper_608030-24.jpg") center/cover no-repeat;
   display: grid;
   place-items: center;
 }
