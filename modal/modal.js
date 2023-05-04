@@ -10,7 +10,7 @@ modalBtn.addEventListener("click", function () {
 modal.addEventListener("click", e => {
   const evTarget = e.target
   if ( evTarget.classList.contains("modal-container") ) {
-  modal.classList.add("open-modal");
+   return ;
   }
   else {
     modal.classList.remove("open-modal");}
